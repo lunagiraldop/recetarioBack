@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "$oid": "69dd9de0ddfbd63fcd3d111a"
+  },
+  "nombre": "postressss prueba guardar categoria",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a13c3b04bcdd3f0b03b7346"
+  },
+  "nombre": "prueba hola",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a14f48a6ed3de56e8aa4517"
+  },
+  "nombre": "comida mexicana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a14f746c3918181881534fc"
+  },
+  "nombre": "comida asiatica",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a14f9fec3918181881534fd"
+  },
+  "nombre": "comida rapida",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a14fa16c3918181881534fe"
+  },
+  "nombre": "ensalada",
+  "__v": 0
+}]

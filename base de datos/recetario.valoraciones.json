@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "6a13c3cb4bcdd3f0b03b7347"
+  },
+  "receta_id": {
+    "$oid": "69dda5af8c52a71a7a67168e"
+  },
+  "usuario_id": "6a12490af4edb202263edb6d",
+  "calificacion": 3,
+  "comentario": "prueba de valoración\n",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a14f609c3918181881534f9"
+  },
+  "receta_id": {
+    "$oid": "6a14f5026ed3de56e8aa4518"
+  },
+  "usuario_id": "6a12490af4edb202263edb6d",
+  "calificacion": 5,
+  "comentario": "muy rica",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a14f616c3918181881534fa"
+  },
+  "receta_id": {
+    "$oid": "6a14f54a6ed3de56e8aa4519"
+  },
+  "usuario_id": "6a12490af4edb202263edb6d",
+  "calificacion": 2,
+  "comentario": "no rica",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a14ff46c3918181881534ff"
+  },
+  "receta_id": {
+    "$oid": "6a14f73ec3918181881534fb"
+  },
+  "usuario_id": "6a14ebcd6ed3de56e8aa4515",
+  "calificacion": 2,
+  "comentario": "h}pruebaaa",
+  "__v": 0
+}]

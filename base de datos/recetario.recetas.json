@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "6a124c57f4edb202263edb6e"
+  },
+  "nombre": "receta desde el front",
+  "ingredientes": "pastas, huevos, \n",
+  "tiempoPreparacion": 50,
+  "dificultad": "Fácil",
+  "categoria_id": "69dd9de0ddfbd63fcd3d111a",
+  "autor_id": "6a14ebcd6ed3de56e8aa4515",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a14f47a6ed3de56e8aa4516"
+  },
+  "nombre": "Tacos de pollo",
+  "ingredientes": "tortillas, pollo, cebolla, tomate, lechuga, queso,\nCocina el pollo con sal y pimienta - luego desmenúzalo o córtalo en tiras. Calienta las tortillas y agrega el pollo junto con cebolla-tomate-lechuga y queso. Puedes acompañarlos con salsa o limón.",
+  "tiempoPreparacion": 25,
+  "dificultad": "Fácil",
+  "categoria_id": "6a14f48a6ed3de56e8aa4517",
+  "autor_id": "6a14ebcd6ed3de56e8aa4515",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a14f5026ed3de56e8aa4518"
+  },
+  "nombre": "Pizza casera",
+  "ingredientes": "harina, levadura, queso mozzarella, salsa de tomate, pepperoni\nPrepara la masa mezclando harina-levadura y agua. Déjala reposar hasta que crezca. Extiende la masa - agrega salsa de tomate - queso mozzarella y pepperoni. Hornea durante 20 minutos hasta que el queso se derrita.",
+  "tiempoPreparacion": 60,
+  "dificultad": "Media",
+  "categoria_id": "6a14f9fec3918181881534fd",
+  "autor_id": "6a14ebcd6ed3de56e8aa4515",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a14f54a6ed3de56e8aa4519"
+  },
+  "nombre": "Ensalada César",
+  "ingredientes": "lechuga, pollo, crutones, queso parmesano, aderezo César\nLava y corta la lechuga. Cocina el pollo y córtalo en tiras. Mezcla la lechuga con el pollo - los crutones y el queso parmesano. Agrega aderezo César al gusto antes de servir.",
+  "tiempoPreparacion": 15,
+  "dificultad": "Fácil",
+  "categoria_id": "6a14fa16c3918181881534fe",
+  "autor_id": "6a14ebcd6ed3de56e8aa4515",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a14f73ec3918181881534fb"
+  },
+  "nombre": "Sushi básico",
+  "ingredientes": "arroz para sushi, alga nori, salmón, aguacate, pepino,\nCocina el arroz para sushi y déjalo enfriar. Coloca una hoja de alga nori - agrega arroz y rellenos como salmón - aguacate y pepino. Enrolla y corta en piezas pequeñas.",
+  "tiempoPreparacion": 50,
+  "dificultad": "Difícil",
+  "categoria_id": "6a14f746c3918181881534fc",
+  "autor_id": "6a12490af4edb202263edb6d",
+  "__v": 0
+}]

@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "69e6189039cb5ab228bf678b"
+  },
+  "nombre": "jjjjjjjjjjjjjjjjjj",
+  "correo": "pruebaeditar@orreo",
+  "edad": 22,
+  "contraseña": "$2b$10$bQYqIEgVzLbyCag0SiEMre5fn/xw6uEGtuSqQbzy0xSVP.MJ39VIC",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a12490af4edb202263edb6d"
+  },
+  "nombre": "luna",
+  "correo": "pruebafron@correo.com",
+  "edad": 20,
+  "contraseña": "$2b$10$d2qMKb19wV3A//lKYETTmOgAdR74//Fks6dsgwKc15YnoQxtHcOM6",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a14ebcd6ed3de56e8aa4515"
+  },
+  "nombre": "Dalibed ",
+  "correo": "dalic@gmail.com",
+  "edad": 23,
+  "contraseña": "$2b$10$zGzPCsXolvM/sDqiWjZHTOH3Mhbg8s6nn5gnbNTA8sjx5wHyZZK96",
+  "__v": 0
+}]
